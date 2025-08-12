@@ -1,4 +1,4 @@
-<h1>Hey Now! 👋,Hello World! I'm Chris — a data enthusiast with a passion for Big Data and AI-driven insights. I specialize in machine learning, predictive modeling, and business intelligence, transforming complex datasets into actionable strategies. Fun fact: I never thought I'd be a cat person... but now I can't imagine life without my feline coding companion! 🐱
+<h1>Hey Now! 👋,Hello World! I'm Chris — This is my journey
 
 Analytics-Driven, Innovation-Focused<h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
